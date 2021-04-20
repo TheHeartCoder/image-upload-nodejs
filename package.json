@@ -1,0 +1,16 @@
+{
+  "name": "image-uploader-resizer",
+  "version": "1.0.0",
+  "description": "Multiple image upload and resizer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "The Heart Coder",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "sharp": "^0.28.1"
+  }
+}
